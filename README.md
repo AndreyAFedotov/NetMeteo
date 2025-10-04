@@ -27,7 +27,6 @@
 Для настройки устройства отредактируйте следующие константы в файле `NetMeteo.ino`:
 
 ```cpp
-// Static configuration - edit these values as needed
 const char* ssid = "SSID";                    // Имя вашей WiFi-сети
 const char* password = "PASS";                // Пароль WiFi
 const char* latitude = "XX.XXXXX";            // Широта (-90 до 90)
@@ -37,5 +36,6 @@ const int ntpGmt = 3;                         // Смещение от GMT (-12 
 ```
 
 Координаты можно найти на https://www.latlong.net/
+
 
 
