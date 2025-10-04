@@ -2,7 +2,7 @@
 
 Проект метеостанции на ESP32 с TFT-дисплеем, с данными о погоде в реальном времени от API Open-Meteo.
 В качестве устройства использовался ESP32 Arduino LVGL WIFI (2.8 дюйма).
-Пример лота на Ali: https://aliexpress.ru/item/1005006396381885.html?sku_id=12000045339578150&spm=a2g2w.productlist.search_results.0.6db076efKUx202
+Пример лота на Ali: [https://aliexpress.ru/item/1005006396381885.html?sku_id=12000045339578150&spm=a2g2w.productlist.search_results.0.6db076efKUx202](https://aliexpress.ru/item/1005006622785763.html?sku_id=12000037852111111&spm=a2g2w.productlist.search_results.14.6db076efKUx202)
 
 ## Возможности
 
@@ -36,6 +36,7 @@ const int ntpGmt = 3;                         // Смещение от GMT (-12 
 ```
 
 Координаты можно найти на https://www.latlong.net/
+
 
 
 
