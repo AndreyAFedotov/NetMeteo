@@ -6,6 +6,7 @@
 
 <img width="871" height="582" alt="esp1" src="https://github.com/user-attachments/assets/c4acaf56-a1a4-4d84-bd8c-1088df0339d3" />
 <img width="886" height="631" alt="esp2" src="https://github.com/user-attachments/assets/df85f00b-fb29-4478-8bfe-d65f39b3ef69" />
+<img width="631" height="866" alt="esp2" src="https://github.com/user-attachments/assets/ea3248bc-6cac-4fb1-bda3-9aa75784b5da" />
 
 ## Возможности
 
@@ -39,6 +40,7 @@ const int ntpGmt = 3;                         // Смещение от GMT (-12 
 ```
 
 Координаты можно найти на https://www.latlong.net/
+
 
 
 
